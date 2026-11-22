@@ -7,4 +7,4 @@
   - Java
   - Python (basics)
   - HTML
-  -CSS
+  - CSS
